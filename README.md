@@ -25,4 +25,4 @@ I like building things end to end: machine learning, data analysis, apps and har
 
 - **Software engineering intern, Hydatis** (Tunisia, 2026): construction-site monitoring platform using vision-language models
 - **IT intern, Central Bank of Tunisia** (2025)
-- **Manager and developer, family restaurant** (2025): cashier app, QR menu and online ordering website
+- **Manager and web developer, family restaurant** (2025): restaurant website, QR-code menu and online ordering
