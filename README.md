@@ -4,6 +4,7 @@ Computer Science student at **Sabancı University**, Istanbul (BSc, graduating 2
 I like building things end to end: machine learning, data analysis, apps and hardware.
 
 **Languages:** Python · C++ · Java · C# · Dart/Flutter · SQL · Verilog
+
 **Speaks:** Arabic · English · French (fluent) · Turkish · Spanish (intermediate)
 
 ---
